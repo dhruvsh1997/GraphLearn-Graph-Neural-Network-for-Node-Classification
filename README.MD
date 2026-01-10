@@ -36,7 +36,7 @@ graph TD
 
 ---
 
-## 📊 Dataset: Cora Citation Network
+## 📊 Datasets: Cora Citation Network
 
 The **Cora dataset** is a benchmark for GNNs:
 
