@@ -11,7 +11,7 @@ A comprehensive implementation of **Graph Neural Networks (GNNs)** for **node cl
 
 ## 🎯 Overview
 
-This repository implements a **Graph Neural Network (GNN)** to classify academic papers based on their **content features** and **citation relationships**. By leveraging the graph structure, the model propagates information between connected nodes, outperforming traditional neural networks.
+This repository implements a **Graph Neural Network (GNN)** to classify academic papers based on their **content features** and **citation relationships**. By leveraging the graph structure, the model propagates information between connected nodes, outperforming traditional neural network.
 
 **Data Pipeline**:
 ```mermaid
