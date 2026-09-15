@@ -5,7 +5,7 @@
 [![NetworkX](https://img.shields.io/badge/NetworkX-2.x-green.svg)](https://networkx.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A comprehensive implementation of **Graph Neural Networks (GNNs)** for **node classification** using the **Cora citation network dataset**. This project showcases the power of graph-based deep learning to model relationships in networked data.
+A comprehensive implementation of **Graph Neural Networks (GNNs)** for **node classification** using the **Cora citation network datasets**. This project showcases the power of graph-based deep learning to model relationships in networked data.
 
 ---
 
